@@ -1,6 +1,18 @@
-# Work Experiences
+# Overview
 
-### 이프정보시스템 / 자본시장사업부 (2018.06 - 2023.01)
+* [안녕하세요. 금융IT 개발자 장혜령 입니다.](#안녕하세요-금융it-개발자-장혜령-입니다)
+* [Work Experiences](#work-experiences)
+
+
+# 안녕하세요. 금융IT 개발자 장혜령 입니다.
+
+ * 연락처 : 010-9863-2477
+ * email : j921202@naver.com
+ * gitHub : [github.com/hrjang92](https://github.com/hrjang92)
+
+
+# Work Experiences
+#### 이프정보시스템 / 자본시장사업부 (2018.06 - 2023.01)
 
 * KB국민은행 E-Capital Market 플랫폼 구축 (2022.02 - 2022.12)
   
